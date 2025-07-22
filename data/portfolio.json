@@ -1,1 +1,115 @@
-{"name":"Tousif Ahmed","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Tousif Ahmed","headerTaglineThree":"Full-Stack developer","headerTaglineFour":" based in Dhaka, Bangladesh.","showCursor":false,"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/TousifProvat"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/tousifahmed15/"},{"id":"5","title":"Email","link":"mailto:tousifprovat15@gmail.com"}],"projects":[{"id":"1","title":"Onnow | Made food easily accessible to over 165M people","description":"Web Development | NextJs, PWA, TailwindCSS, ExpressJs, MongoDB ","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706870355/portfolio-images/website_development_pwa_nextjs_expressjs_mongodb_wu2bnd.jpg","url":"https://www.onnow.io/"},{"id":"2","title":"Tradematrix | The Social Network for Investors","description":"Mobile App & Discord Bot Development | React Native, Firebase, ExpressJS, MongoDB & DiscordJS","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706896713/portfolio-images/react_native_mobile_app_development_ios_android_gusywl.jpg","url":"https://www.tradematrixinc.com/"},{"id":"3","title":"Freight Management Solution | Digital Freight Management System","description":"Web And Mobile App Development | ReactJS, React Native, AntD, TailwindCSS, ExpressJS, MongoDB","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706870559/portfolio-images/website_development_reactjs_expressjs_mongodb_react_native_mobile_app_development_eje1yp.jpg","url":"https://www.freightmsolution.com/"},{"id":"4","title":"SickCV","description":"Web Development | NextJs, DaisyUI, TailwindCSS, ExpressJS & MongoDB","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706873520/portfolio-images/sick-cv_xnbyxs.jpg","url":"https://sickcv.com"},{"id":"5","title":"Cave.Blog | Blogging from your Cave","description":"Web Development | NextJS, TailwindCSS, ExpressJS, MongoDB","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706871634/portfolio-images/cave_blog_ouw3xo.jpg","url":"https://cave-gules.vercel.app/"},{"id":"6","title":"Cacfpohio | Childcare","description":"Web Development | ReactJS, SCSS, ExpressJS, MongoDB","imageSrc":"https://res.cloudinary.com/dklakm8v6/image/upload/v1706873750/portfolio-images/cacfpohio_glpapl.jpg","url":"https://cacfpohio.com/"}],"services":[{"id":"1","title":"Website Development","description":"I will build web applications using modern techs such as ReactJs/NextJs, TailwindCSS, ExpressJS, and MongoDB."},{"id":"2","title":"Mobile App Development","description":"I will build high-performance hybrid mobile applications using React Native, and Firebase. And develop mobile backends using ExpressJS or Supabase."},{"id":"4","title":"Discord Bot","description":"I will build discord bots for moderating your discord server."}],"aboutpara":"I am a full-stack developer with over 4 years of experience. I am currently doing my BSc in CSE (1st year) at United International University. I started my journey when I was in 8th grade and still going. I started as a front-end developer and then started Backend development and became a full-stack developer. I love to solve problems and turn ideas into reality!","resume":{"tagline":"Full-Stack Developer | MERN Stack Developer | JavaScript Developer","description":"I have 4+ years of experience in full-stack development. I have professional experience in JavaScript, ReactJs, NextJs, React Native, NodeJs, Express, MongoDB, PostgreSQL, MariaDB, and MySQL. I am experienced with tools like Docker, GitHub, AWS, Supabase, Firebase and many more. ","experiences":[{"id":"1","dates":"March 2023 - Present","type":"Full Time","position":"Frontend Lead at Syscomatic","bullets":"Leading the Frontend team,Planning New features,Implenting and Optimizing New features"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"May 2021 - Feb 2023","type":"Freelance","position":"Full-Stack Developer at Freight Management Solution","bullets":"Built Load/Dispatch Management System,Built CRM/Invoicing/Driver Management/Equipment Management System,Built a Chatting System,Built Hybrid Mobile Application for Drivers"},{"id":"23b176c4-e94e-4e1d-b74d-06c5ef679536","dates":"Jan 2021 - May 2021","type":"Freelance","position":"Full-Stack Developer at Cacfpohio","bullets":"Built Meal Management System,Built Student/Parent Management features,Built Easy Meal Schedule management feature"},{"id":"8a5ffcce-3106-475d-a847-bd67deec02ba","dates":"Aug 2020 - Dec 2020","type":"Freelance","position":"Full-Stack Developer","bullets":"Built the automatic emailing system based on the timezone,Built the mood evaluation system"},{"id":"e2bcc7b8-6d0a-4b66-ad2f-90330da109bc","dates":"Sep 2020 - Oct 2021 ","type":"Part Time","position":"Web Administrator at Electronic Source BD","bullets":"Optimized the Frontend, Optimized the Backend, Implemened New features"}],"education":{"universityName":"United International University","universityDate":"2023-2027","universityPara":"Currently, doing my BS.C in CSE. Maintaining 3.78 CGPA."},"languages":["Javascript","C","C++","SQL"],"frameworks":["React","Typescript","React Native","NextJs","NodeJs","ExpressJs","TailwindCSS"],"others":["AWS","MongoDB","Supabase","Firebase","MariaDB","PostgreSQL"]}}
+{
+  "name": "Tousif Ahmed",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Tousif Ahmed",
+  "headerTaglineThree": "Senior Software Engineer",
+  "headerTaglineFour": " based in Dhaka, Bangladesh.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/tousifahmed1" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/tousifahmed15/"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:tousifprovat15@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Onnow | Made food easily accessible to over 165M people",
+      "description": "Web Development | NextJs, PWA, TailwindCSS, ExpressJs, MongoDB ",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706870355/portfolio-images/website_development_pwa_nextjs_expressjs_mongodb_wu2bnd.jpg",
+      "url": "https://www.onnow.io/"
+    },
+    {
+      "id": "2",
+      "title": "Tradematrix | The Social Network for Investors",
+      "description": "Mobile App & Discord Bot Development | React Native, Firebase, ExpressJS, MongoDB & DiscordJS",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706896713/portfolio-images/react_native_mobile_app_development_ios_android_gusywl.jpg",
+      "url": "https://www.tradematrixinc.com/"
+    },
+    {
+      "id": "3",
+      "title": "Freight Management Solution | Digital Freight Management System",
+      "description": "Web And Mobile App Development | ReactJS, React Native, AntD, TailwindCSS, ExpressJS, MongoDB",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706870559/portfolio-images/website_development_reactjs_expressjs_mongodb_react_native_mobile_app_development_eje1yp.jpg",
+      "url": "https://www.freightmsolution.com/"
+    },
+    {
+      "id": "4",
+      "title": "SickCV",
+      "description": "Web Development | NextJs, DaisyUI, TailwindCSS, ExpressJS & MongoDB",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706873520/portfolio-images/sick-cv_xnbyxs.jpg",
+      "url": "https://sickcv.com"
+    },
+    {
+      "id": "5",
+      "title": "Cave.Blog | Blogging from your Cave",
+      "description": "Web Development | NextJS, TailwindCSS, ExpressJS, MongoDB",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706871634/portfolio-images/cave_blog_ouw3xo.jpg",
+      "url": "https://cave-gules.vercel.app/"
+    },
+    {
+      "id": "6",
+      "title": "Cacfpohio | Childcare",
+      "description": "Web Development | ReactJS, SCSS, ExpressJS, MongoDB",
+      "imageSrc": "https://res.cloudinary.com/dklakm8v6/image/upload/v1706873750/portfolio-images/cacfpohio_glpapl.jpg",
+      "url": "https://cacfpohio.com/"
+    }
+  ],
+  "services": [],
+  "aboutpara": "I am a software engineer with over 5 years of experience. I am currently doing my BSc in CSE (3rd year) at United International University. I started my journey when I was in 8th grade and still going. I started as a front-end developer and then started Backend development and became a full-stack developer. I love to solve problems and turn ideas into reality!",
+  "resume": {
+    "tagline": "Senior Software Engineer | Typescript, NextJS, PostgreSQL",
+    "description": "Full-stack engineer with 5+ years of experience building scalable web applications and developer platforms using TypeScript, Node.js, PostgreSQL, and React. Proven track record leading cross-functional product development in distributed teams, with a recent focus on AI automation, developer tooling, and cloud-integrated systems. Adept at navigating ambiguity in startup environments and delivering impact through ownership, performance optimization, and collaboration",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Jun 2025 - Present",
+        "type": "Full Time (Remote)",
+        "position": "Technical Lead at Retreat | AI Development & Platform Infrastructure",
+        "bullets": "Led the development of AI-driven backend systems, supporting product extensibility and automated content workflows.,Shaped backend strategy and architecture by collaborating directly with C-level executives to align with platform goals."
+      },
+      {
+        "id": "1",
+        "dates": "Apr 2024 - May 2025",
+        "type": "Full Time (Remote)",
+        "position": "Software Engineer at Retreat | Platform Development & AI Integration",
+        "bullets": "Designed and implemented backend automation features, reducing RFP response times by 40% through intelligent data workflows.,Spearheaded integrations of AI across the platform, aligning with long-term extensibility and content management goals.,Optimized CI/CD pipelines and system architecture to reduce deployment time and improve service reliability."
+      },
+      {
+        "id": "3",
+        "dates": "Feb 2023 - March 2024",
+        "type": "Full Time (Remote)",
+        "position": "Lead Engineer at Syscomatic | SaaS & Mobile App Delivery",
+        "bullets": "Directed frontend and backend teams to deliver scalable web and mobile products for early-stage startups.,Delivered extensible backend modules in Node.js/Express and refactored systems for improved performance.,Managed feature rollouts and performance tuning to support rapid iterations and product growth."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "May 2021 - Feb 2023",
+        "type": "Freelance",
+        "position": "Full-Stack Developer at Freight Management Solution | Freight SaaS Platform",
+        "bullets": "Engineered dispatch and load management systems with ExpressJS and MongoDB, improving logistics tracking.,Developed APIs for CRM, invoicing, and equipment tracking features tailored for multi-role collaboration.,Built a mobile driver application to interface with backend services in real time."
+      }
+    ],
+    "education": {
+      "universityName": "United International University | Bangladesh",
+      "universityDate": "2023-2027",
+      "universityPara": "B.S. Computer Science | 3rd year"
+    },
+    "languages": ["TypeScript", "JavaScript", "NestJS"],
+    "frameworks": ["NestJS", "ExpressJS", "ReactJS", "NextJS"],
+    "others": [
+      "PostgreSQL",
+      "GCP, AWS",
+      "CI/CD",
+      "MongoDB",
+      "Supabase",
+      "Firebase"
+    ]
+  }
+}
